@@ -1,0 +1,878 @@
+{
+  "Children & Young Adult": [
+    {
+      "name": "Children's Literature",
+      "subjects": [
+        "children", "Children", "children's", "Children's Stories", "children's literature", "childrens literature", "kids", "child", "childhood", "juvenile", "juvenile literature", "juvenile fiction", "children's fiction", "youth"
+      ]
+    },
+    {
+      "name": "Young Adult & Teen",
+      "subjects": [
+        "young adult", "teen", "teens", "teen/young adult", "ya"
+      ]
+    },
+    {
+      "name": "Fairy Tales & Folktales",
+      "subjects": [
+        "fairy tales", "fairy tale", "fairy", "fairies", "Märchen", "folk tales", "Grimm"
+      ]
+    },
+    {
+      "name": "Fables & Myths",
+      "subjects": [
+        "fables", "fable", "Fabel"
+      ]
+    },
+    {
+      "name": "Bedtime Stories & Rhymes",
+      "subjects": [
+        "bedtime stories", "bedtime", "nursery rhymes", "nursery rhyme", "jingles"
+      ]
+    },
+    {
+      "name": "School & Orphans",
+      "subjects": [
+        "school", "boarding school", "orphan", "orphans"
+      ]
+    },
+    {
+      "name": "Boys & Girls",
+      "subjects": [
+        "boys", "Boy Scouts", "girls", "girl"
+      ]
+    },
+    {
+      "name": "Royalty",
+      "subjects": [
+        "princess", "prince"
+      ]
+    },
+    {
+      "name": "Toys & Animals",
+      "subjects": [
+        "toys", "doll", "kitten", "kittens", "Peter Rabbit"
+      ]
+    },
+    {
+      "name": "Mysteries & Classics",
+      "subjects": [
+        "girl detective", "hardy boys", "stratemeyer syndicate", "Stratemeyer Syndicate", "alice", "Oz"
+      ]
+    }
+  ],
+  "Fiction & Literature": [
+    {
+      "name": "Literature & Fiction",
+      "subjects": [
+        "literature", "Literature", "fiction", "Fiction", "littérature", "literatuur", "literatur", "Literatur", "literatura", "literatura brasileira", "fictie"
+      ]
+    },
+    {
+      "name": "Short Stories & Tales",
+      "subjects": [
+        "short stories", "Short Stories", "short-stories", "short story", "stories", "story", "short works", "tales", "tale", "cuentos", "Kurzgeschichten", "Kurzgeschichte", "kurzgeschichte", "Erzählung", "contes", "contos", "narrative", "collection", "collections"
+      ]
+    },
+    {
+      "name": "Non-Fiction & Essays",
+      "subjects": [
+        "non-fiction", "nonfiction", "non fiction", "essays", "essay"
+      ]
+    },
+    {
+      "name": "Novels & Novellas",
+      "subjects": [
+        "novel", "novella", "novela", "Novelle", "roman"
+      ]
+    },
+    {
+      "name": "Classics & Epics",
+      "subjects": [
+        "classics", "classic", "classical", "homer", "homere", "Όμηρος", "odyssey", "l'odyssée", "Οδύσσεια", "Epic", "ΟΜΗΡΟΥ ΕΠΗ", "Latin literature"
+      ]
+    },
+    {
+      "name": "Myths, Legends & Folklore",
+      "subjects": [
+        "myths", "myth", "mythology", "greek mythology", "Legends", "Legend", "legends", "myths/legends", "folklore", "folktales", "leyendas", "lore", "Arthur"
+      ]
+    },
+    {
+      "name": "Literary Movements & Themes",
+      "subjects": [
+        "social novel", "realism", "realismo", "Gothic", "Romanticism", "Victorian novel", "bildungsroman", "symbolism", "allegory", "modernism", "pastoral", "coming of age", "epistolary", "saga", "dialogue"
+      ]
+    },
+    {
+      "name": "Periodicals & Criticism",
+      "subjects": [
+        "magazine", "periodical", "periodicals", "anthology", "literary criticism", "criticism", "writing", "authors", "author", "writers"
+      ]
+    },
+    {
+      "name": "American Authors",
+      "subjects": [
+        "mark twain", "twain", "Samuel Clemens", "samuel", "baum", "alcott", "wharton", "edgar rice burroughs", "burroughs", "poe", "dick"
+      ]
+    },
+    {
+      "name": "British Authors",
+      "subjects": [
+        "Shakespeare", "shakespeare", "dickens", "Dickens", "Charles Dickens", "oscar wilde", "wilde", "austen", "Chesterton", "G. K. Chesterton", "shaw", "George MacDonald", "carroll"
+      ]
+    },
+    {
+      "name": "European Authors",
+      "subjects": [
+        "Russian Literature", "Tolstoy", "chekhov", "French literature", "Jules Verne", "Honoré de Balzac", "Voltaire", "Fables de La Fontaine", "Jean de La Fontaine", "La Fontaine", "Friedrich Schiller", "Goethe", "Emilio de Marchi", "ibsen", "aesop", "favole"
+      ]
+    },
+    {
+      "name": "Prose & Series",
+      "subjects": [
+        "pulp fiction", "pulp", "series", "series book", "Prosa", "prose", "American Literature", "English literature"
+      ]
+    }
+  ],
+  "Science Fiction & Fantasy": [
+    {
+      "name": "Science Fiction",
+      "subjects": [
+        "science fiction", "Science Fiction", "Science fiction", "science-fiction", "sci-fi", "SF", "classic sci-fi", "scifi", "speculative fiction"
+      ]
+    },
+    {
+      "name": "Fantasy & Magic",
+      "subjects": [
+        "fantasy", "Fantasy", "magic"
+      ]
+    },
+    {
+      "name": "Horror & Supernatural",
+      "subjects": [
+        "horror", "ghost", "ghosts", "ghost stories", "ghost story", "supernatural", "Occult", "weird", "weird tales", "weird fiction", "haunted house", "Monster"
+      ]
+    },
+    {
+      "name": "Space & Aliens",
+      "subjects": [
+        "space", "space travel", "Mars", "aliens", "space opera", "stars"
+      ]
+    },
+    {
+      "name": "Dystopia & Future",
+      "subjects": [
+        "utopia", "dystopia", "apocalypse", "future"
+      ]
+    },
+    {
+      "name": "Time Travel",
+      "subjects": [
+        "time travel"
+      ]
+    },
+    {
+      "name": "Witches & Vampires",
+      "subjects": [
+        "vampire", "witchcraft", "witches", "witch"
+      ]
+    }
+  ],
+  "Mystery & Crime": [
+    {
+      "name": "Mystery",
+      "subjects": [
+        "Mystery", "mystery", "mysteries", "misterio", "cozy mystery", "puzzle"
+      ]
+    },
+    {
+      "name": "Crime & Criminals",
+      "subjects": [
+        "Crime", "crime", "crime fiction", "criminals", "Krimi", "true crime", "criminal", "Scandal"
+      ]
+    },
+    {
+      "name": "Detective & Investigation",
+      "subjects": [
+        "Detective", "detective", "detective fiction", "detective story", "Sherlock Holmes", "Doyle", "arsene lupin", "police", "investigation"
+      ]
+    },
+    {
+      "name": "Murder & Assassination",
+      "subjects": [
+        "murder", "murder mystery", "assassination"
+      ]
+    },
+    {
+      "name": "Thriller & Suspense",
+      "subjects": [
+        "suspense", "intrigue", "thriller", "terror", "uncanny", "noir", "hard-boiled"
+      ]
+    },
+    {
+      "name": "Espionage",
+      "subjects": [
+        "espionage", "spy", "spies", "disguise", "mistaken identity"
+      ]
+    },
+    {
+      "name": "Theft & Fraud",
+      "subjects": [
+        "theft", "robbery", "fraud", "blackmail", "thief", "betrayal", "kidnapping", "revenge"
+      ]
+    }
+  ],
+  "Romance & Drama": [
+    {
+      "name": "Romance & Love",
+      "subjects": [
+        "Romance", "romance", "love", "love story", "romantic", "Liebe", "amor", "Courtship", "passion", "longing"
+      ]
+    },
+    {
+      "name": "Drama & Plays",
+      "subjects": [
+        "Drama", "drama", "play", "dramatic", "plays", "family drama"
+      ]
+    },
+    {
+      "name": "Theater & Stage",
+      "subjects": [
+        "theatre", "teatro", "theater"
+      ]
+    },
+    {
+      "name": "Tragedy & Melodrama",
+      "subjects": [
+        "tragedy", "melodrama", "greek tragedy"
+      ]
+    },
+    {
+      "name": "Comedy",
+      "subjects": [
+        "romantic comedy"
+      ]
+    },
+    {
+      "name": "Relationships & Infidelity",
+      "subjects": [
+        "relationships", "adultery", "wedding"
+      ]
+    },
+    {
+      "name": "Greek Drama",
+      "subjects": [
+        "greek drama", "euripides", "Vénus"
+      ]
+    },
+    {
+      "name": "Opera",
+      "subjects": [
+        "opera"
+      ]
+    }
+  ],
+  "History": [
+    {
+      "name": "World History & Antiquity",
+      "subjects": [
+        "History", "history", "historical", "historia", "Geschichte", "histoire", "antiquity", "archaeology", "civilization", "execution", "Exposition"
+      ]
+    },
+    {
+      "name": "World Wars & Military",
+      "subjects": [
+        "war", "war stories", "WWI", "World War I", "Great War", "First World War", "World War 1", "WW1", "World War One", "wwii", "World War", "military", "military history", "battle", "soldiers", "soldier", "warfare", "Army", "navy", "usmc"
+      ]
+    },
+    {
+      "name": "American History",
+      "subjects": [
+        "American history", "Americana", "American West", "U.S. History", "American civil war", "civil war", "Civil War", "Confederacy", "reconstruction", "american revolution", "revolutionary war", "Independence", "Constitution", "gold rush", "pioneers", "pioneer", "frontier", "Abraham Lincoln", "lincoln", "George Washington", "Benjamin Franklin", "Thomas Jefferson"
+      ]
+    },
+    {
+      "name": "Ancient History & Classics",
+      "subjects": [
+        "ancient history", "Ancient", "Ancient Greek", "Ancient Greece", "greece", "Greece", "rome", "Rome", "Roman", "Roman Empire", "Roman history", "Roman Republic", "Caesar", "Cicero", "egypt"
+      ]
+    },
+    {
+      "name": "European & British History",
+      "subjects": [
+        "English History", "victorian", "Victorian", "edwardian", "Elizabethan", "regency", "restoration", "Louis XIV", "French Revolution", "french revolution", "napoleon", "Napoleonic Wars", "Crimean War", "Ottoman Empire", "British Empire", "Canadian History"
+      ]
+    },
+    {
+      "name": "Medieval & Renaissance",
+      "subjects": [
+        "medieval", "middle ages", "renaissance", "Reformation", "crusades", "chivalry", "Knights", "vikings", "Charlemagne", "Joan of Arc"
+      ]
+    },
+    {
+      "name": "Centuries & Eras",
+      "subjects": [
+        "19th century", "nineteenth century", "20th century", "18th Century", "seventeenth century", "earlytwentieth century", "enlightenment"
+      ]
+    },
+    {
+      "name": "Slavery & Abolition",
+      "subjects": [
+        "slavery", "slave", "emancipation", "abolition", "abolitionism", "black history", "harlem renaissance"
+      ]
+    },
+    {
+      "name": "Royalty & Aristocracy",
+      "subjects": [
+        "Royalty", "monarchy", "king", "kings", "queen", "queens", "aristocracy", "nobility", "henry viii"
+      ]
+    },
+    {
+      "name": "Historical Fiction",
+      "subjects": [
+        "historical fiction", "Historical Fiction"
+      ]
+    },
+    {
+      "name": "Politics & Revolutions",
+      "subjects": [
+        "revolution", "rebellion", "colonialism", "imperialism", "persecution", "Red Cross"
+      ]
+    }
+  ],
+  "Religion & Spirituality": [
+    {
+      "name": "Religion & Spirituality",
+      "subjects": [
+        "Religion", "religion", "religious", "spirituality", "spiritual", "spiritualism", "theosophy", "New Thought", "superstition", "mysticism"
+      ]
+    },
+    {
+      "name": "Christianity",
+      "subjects": [
+        "Christianity", "christianity", "christian", "Christian", "Catholicism", "Catholic", "Protestant", "puritan", "Puritans", "Church of England", "Lutheran", "Methodism", "Anglican", "Calvinism", "reformed theology"
+      ]
+    },
+    {
+      "name": "The Bible",
+      "subjects": [
+        "Bible", "bible", "New Testament", "old testament", "Old Testament", "American Standard Version", "american standard version", "King James Version", "KJV", "Scripture", "gospel", "Gospels", "Gospel of John", "Gospel of Luke", "Romans", "Hebrews", "Exodus", "genesis", "Revelation", "Pentateuch", "apocrypha", "deuterocanon", "epistle"
+      ]
+    },
+    {
+      "name": "Jesus & God",
+      "subjects": [
+        "Jesus", "Christ", "Jésus Christ", "God", "Holy Spirit", "spirit"
+      ]
+    },
+    {
+      "name": "Theology & Doctrine",
+      "subjects": [
+        "theology", "doctrine", "apologetics", "sacraments", "catechism", "prophecy", "nihil obstat", "imprimatur", "salvation", "grace", "redemption", "forgiveness", "sin", "Resurrection"
+      ]
+    },
+    {
+      "name": "Sermons & Devotion",
+      "subjects": [
+        "sermons", "sermon", "preaching", "prayer", "prayers", "devotional", "Devotion", "meditation", "homilies"
+      ]
+    },
+    {
+      "name": "Church & Clergy",
+      "subjects": [
+        "church", "church history", "early church", "Church Fathers", "clergy", "priest", "pope", "missionary", "missions", "salvation army"
+      ]
+    },
+    {
+      "name": "Saints & Prophets",
+      "subjects": [
+        "saints", "saint", "apostle", "prophet", "Moses", "Paul", "Paul of Tarsus", "Martin Luther", "Luther"
+      ]
+    },
+    {
+      "name": "Judaism",
+      "subjects": [
+        "judaism", "jewish", "Jews", "Tanakh", "tanakh", "Torah", "Hebrew"
+      ]
+    },
+    {
+      "name": "Other Religions",
+      "subjects": [
+        "Islam", "buddhism", "Bahai"
+      ]
+    },
+    {
+      "name": "Religious Fiction",
+      "subjects": [
+        "christian fiction", "religious fiction", "inspirational"
+      ]
+    },
+    {
+      "name": "Religious Themes",
+      "subjects": [
+        "faith", "hope", "holiness", "soul", "heaven", "angels", "devil", "Sacrifice", "conversion", "evangelism", "Christian living", "Christian life", "reincarnation"
+      ]
+    },
+    {
+      "name": "Sacred Texts Commentary",
+      "subjects": [
+        "commentary", "bible commentary"
+      ]
+    },
+    {
+      "name": "Hymns & Observances",
+      "subjects": [
+        "hymns", "psalms", "Easter", "Advent"
+      ]
+    }
+  ],
+  "Philosophy & Education": [
+    {
+      "name": "Philosophy",
+      "subjects": [
+        "Philosophy", "philosophy", "Philosophie", "metaphysics", "logic", "political philosophy", "Stoicism", "aesthetics", "idealism", "materialism", "freethought", "truth"
+      ]
+    },
+    {
+      "name": "Philosophers",
+      "subjects": [
+        "plato", "aristotle"
+      ]
+    },
+    {
+      "name": "Education & Teaching",
+      "subjects": [
+        "education", "instruction", "Teaching", "college", "grammar", "lectures", "lessons"
+      ]
+    },
+    {
+      "name": "Psychology & Mind",
+      "subjects": [
+        "psychology", "mind", "memory", "dreams", "dream", "imagination"
+      ]
+    },
+    {
+      "name": "Ethics & Morality",
+      "subjects": [
+        "ethics", "morality", "morals", "Moral", "virtue", "virtues", "character"
+      ]
+    },
+    {
+      "name": "Self-Help & Advice",
+      "subjects": [
+        "self-help", "advice", "success", "conduct of life"
+      ]
+    },
+    {
+      "name": "Human Condition & Emotions",
+      "subjects": [
+        "life", "human nature", "happiness", "joy", "suffering", "grief", "suicide", "time"
+      ]
+    },
+    {
+      "name": "Values & Traits",
+      "subjects": [
+        "courage", "honor", "wisdom", "loyalty", "kindness", "greed", "duty"
+      ]
+    },
+    {
+      "name": "Atheism",
+      "subjects": [
+        "atheism"
+      ]
+    },
+    {
+      "name": "Inspiration & Reflection",
+      "subjects": [
+        "inspiration", "Reflection"
+      ]
+    }
+  ],
+  "Poetry": [
+    {
+      "name": "Poetry",
+      "subjects": [
+        "Poetry", "poetry", "poésie", "poesia", "lyrik", "weekly poetry", "world's best poetry", "classic poetry", "epic poetry", "war poetry"
+      ]
+    },
+    {
+      "name": "Poems & Verses",
+      "subjects": [
+        "poem", "poems", "poemas", "verse", "verses"
+      ]
+    },
+    {
+      "name": "Poetry Collections",
+      "subjects": [
+        "poetry collection", "poetry collections"
+      ]
+    },
+    {
+      "name": "Poetic Forms",
+      "subjects": [
+        "short poetry", "long poetry", "sonnets", "sonnet", "ballad", "Ballads", "lyric"
+      ]
+    },
+    {
+      "name": "Rhymes & Songs",
+      "subjects": [
+        "rhymes", "rhyme", "song"
+      ]
+    },
+    {
+      "name": "Poets",
+      "subjects": [
+        "poet", "byron", "dante"
+      ]
+    },
+    {
+      "name": "German Poetry",
+      "subjects": [
+        "gedichte", "gedicht"
+      ]
+    }
+  ],
+  "Biography & Memoir": [
+    {
+      "name": "Biography",
+      "subjects": [
+        "biography", "biographies", "marshall"
+      ]
+    },
+    {
+      "name": "Memoir & Autobiography",
+      "subjects": [
+        "memoirs", "memoir", "memries", "autobiography", "autobiographie"
+      ]
+    },
+    {
+      "name": "Letters & Correspondence",
+      "subjects": [
+        "letters", "letter", "correspondence", "brief"
+      ]
+    },
+    {
+      "name": "Diaries & Journals",
+      "subjects": [
+        "diary", "journal", "tagebuch"
+      ]
+    }
+  ],
+  "Science & Nature": [
+    {
+      "name": "Nature & Natural History",
+      "subjects": [
+        "nature", "natur", "Natural History", "naturalist", "nat geo", "natgeo", "discovery"
+      ]
+    },
+    {
+      "name": "Science & Technology",
+      "subjects": [
+        "science", "physics", "chemistry", "biology", "mathematics", "engineering", "technology", "inventions", "electricity", "telegraph", "relativity", "Darwin", "evolution", "anthropology", "light"
+      ]
+    },
+    {
+      "name": "Animals & Wildlife",
+      "subjects": [
+        "animals", "animal", "wildlife", "mammals", "marine", "animal stories", "zoology"
+      ]
+    },
+    {
+      "name": "Pets & Domestic Animals",
+      "subjects": [
+        "dog", "dogs", "cats", "cat", "pets"
+      ]
+    },
+    {
+      "name": "Specific Animals",
+      "subjects": [
+        "birds", "bird", "insects", "bees", "fish", "rabbit", "bear", "bears", "lion", "horse", "horses", "butterfly", "mouse", "ornithology"
+      ]
+    },
+    {
+      "name": "Plants & Botany",
+      "subjects": [
+        "plants", "botany", "flowers", "trees", "vegetables", "woods", "forest"
+      ]
+    },
+    {
+      "name": "Farming & Agriculture",
+      "subjects": [
+        "farming", "agriculture", "farm", "garden", "Gardening", "apiary", "apiculture", "honey"
+      ]
+    },
+    {
+      "name": "Medicine & Health",
+      "subjects": [
+        "medicine", "health", "nursing", "medical", "plague", "sleep"
+      ]
+    },
+    {
+      "name": "Earth & Geology",
+      "subjects": [
+        "earth", "geology", "minerals", "earthquake"
+      ]
+    },
+    {
+      "name": "Astronomy & Space",
+      "subjects": [
+        "astronomy", "moon", "sun", "planets"
+      ]
+    },
+    {
+      "name": "Weather & Seasons",
+      "subjects": [
+        "weather", "seasons", "winter", "spring", "summer", "autumn", "fall", "snow", "rain", "Storm", "disaster", "water", "fire", "ice"
+      ]
+    },
+    {
+      "name": "Aviation",
+      "subjects": [
+        "aviation"
+      ]
+    },
+    {
+      "name": "Arctic",
+      "subjects": [
+        "arctic"
+      ]
+    }
+  ],
+  "Travel & Geography": [
+    {
+      "name": "Travel & Exploration",
+      "subjects": [
+        "travel", "travelogue", "exploration", "explorers", "voyage", "journey"
+      ]
+    },
+    {
+      "name": "Geography & Landscapes",
+      "subjects": [
+        "geography", "island", "mountains", "wilderness", "jungle", "rural", "prairie", "country", "north pole"
+      ]
+    },
+    {
+      "name": "Transportation",
+      "subjects": [
+        "train", "trains", "railroads", "ship", "ships", "boat", "sailing", "nautical", "maritime", "sailor", "sea", "ocean", "river", "rivers"
+      ]
+    },
+    {
+      "name": "North America",
+      "subjects": [
+        "United States", "USA", "America", "Canada", "Canadian", "Mexico", "Cuba", "Quebec", "Ontario"
+      ]
+    },
+    {
+      "name": "US States & Regions",
+      "subjects": [
+        "New York", "California", "New England", "Alaska", "Kentucky", "Virginia", "Texas", "Massachusetts", "maine", "mississippi", "Arizona", "Florida", "hawaii", "cape cod"
+      ]
+    },
+    {
+      "name": "US Cities",
+      "subjects": [
+        "new york city", "Boston", "San Francisco", "Chicago", "Philadelphia", "Washington"
+      ]
+    },
+    {
+      "name": "Great Britain & Ireland",
+      "subjects": [
+        "England", "england", "Great Britain", "Britain", "London", "london", "scotland", "Ireland", "Wales", "Lancashire", "Manchester", "eastanglia", "norfolk", "norfolk broads", "oxford"
+      ]
+    },
+    {
+      "name": "Europe",
+      "subjects": [
+        "Europe", "France", "paris", "Paris", "Germany", "Deutschland", "Russia", "Russland", "Italy", "Florence", "venice", "Spain", "españa", "poland", "Belgium", "Norway", "Austria", "bohemia", "Switzerland", "Netherlands"
+      ]
+    },
+    {
+      "name": "Asia",
+      "subjects": [
+        "Asia", "Japan", "India", "china", "Persia", "korea"
+      ]
+    },
+    {
+      "name": "Africa & Middle East",
+      "subjects": [
+        "africa", "South Africa", "Egypt", "Israel", "Palestine", "Turkey"
+      ]
+    },
+    {
+      "name": "South America",
+      "subjects": [
+        "South America", "brazil", "argentina"
+      ]
+    },
+    {
+      "name": "Oceania",
+      "subjects": [
+        "australia", "Australia", "new zealand"
+      ]
+    }
+  ],
+  "Humor & Satire": [
+    {
+      "name": "Humor",
+      "subjects": [
+        "Humor", "humor", "humour", "humorous", "funny", "fun", "laughter", "jokes", "anecdotes", "anekdote"
+      ]
+    },
+    {
+      "name": "Satire & Parody",
+      "subjects": [
+        "satire", "parody", "irony"
+      ]
+    },
+    {
+      "name": "Comedy",
+      "subjects": [
+        "comedy", "comedy of manners", "farce"
+      ]
+    },
+    {
+      "name": "Wit & Nonsense",
+      "subjects": [
+        "wit", "nonsense"
+      ]
+    },
+    {
+      "name": "Humor Authors",
+      "subjects": [
+        "wodehouse"
+      ]
+    }
+  ],
+  "Action & Adventure": [
+    {
+      "name": "Adventure",
+      "subjects": [
+        "Adventure", "adventure", "adventures", "abenteuer", "expedition", "escape", "rescue", "survival"
+      ]
+    },
+    {
+      "name": "Action & Heroes",
+      "subjects": [
+        "action", "heroes", "hero", "heroism"
+      ]
+    },
+    {
+      "name": "Westerns & Cowboys",
+      "subjects": [
+        "western", "westerns", "cowboy", "cowboys"
+      ]
+    },
+    {
+      "name": "Sea Adventures & Pirates",
+      "subjects": [
+        "sea stories", "seafaring", "shipwreck", "pirates", "pirate", "treasure"
+      ]
+    },
+    {
+      "name": "Sports & Recreation",
+      "subjects": [
+        "sports", "baseball", "games", "camping", "fishing", "Hunting"
+      ]
+    },
+    {
+      "name": "Other Themes",
+      "subjects": [
+        "circus", "gold"
+      ]
+    }
+  ],
+  "Society & Culture": [
+    {
+      "name": "Society & Sociology",
+      "subjects": [
+        "society", "culture", "sociology", "social science", "social commentary", "social class", "class", "gesellschaft", "société", "soziales", "village life", "country life", "rural life"
+      ]
+    },
+    {
+      "name": "Politics & Government",
+      "subjects": [
+        "Politics", "politics", "government", "political science", "democracy", "parliament", "communism", "socialism", "anarchism", "capitalism"
+      ]
+    },
+    {
+      "name": "Economics & Industry",
+      "subjects": [
+        "economics", "economy", "business", "industry", "labor", "work", "money", "mining", "poverty", "charity"
+      ]
+    },
+    {
+      "name": "Family & Relationships",
+      "subjects": [
+        "family", "family life", "marriage", "divorce", "home", "siblings", "brothers", "sisters", "twins", "Mother", "runaway", "Friendship", "friends", "friendship"
+      ]
+    },
+    {
+      "name": "Women & Feminism",
+      "subjects": [
+        "women", "feminism", "feminist", "feminist fiction", "women's literature", "women's rights"
+      ]
+    },
+    {
+      "name": "Race & Ethnicity",
+      "subjects": [
+        "race", "racism", "race relations", "african american", "african-american", "black", "Indians", "Native Americans", "Native American", "Indian", "chinese", "Japanese", "Irish", "Scottish", "Portuguese", "australian", "american", "British", "immigrants", "immigration"
+      ]
+    },
+    {
+      "name": "Food & Cooking",
+      "subjects": [
+        "food", "cooking", "cookery", "cook", "kitchen", "recipes", "recipe", "baking", "bread", "cake", "dessert", "soup", "dinner", "tea", "home economics"
+      ]
+    },
+    {
+      "name": "Holidays & Festivals",
+      "subjects": [
+        "holiday", "holidays", "Christmas", "christmas", "Weihnachten", "carols", "thanksgiving", "halloween"
+      ]
+    },
+    {
+      "name": "Music & Arts",
+      "subjects": [
+        "music", "singing", "classical music", "composers", "composer", "Beethoven", "piano", "art", "painting", "architecture", "illustrations", "cinema", "film", "movies", "radio"
+      ]
+    },
+    {
+      "name": "Law & Justice",
+      "subjects": [
+        "Law", "justice", "prison", "court", "inheritance"
+      ]
+    },
+    {
+      "name": "Social Issues",
+      "subjects": [
+        "civil rights", "freedom", "peace", "patriotism", "corruption", "prostitution", "gambling", "opium", "alcohol", "alcoholism", "temperance", "prohibition"
+      ]
+    },
+    {
+      "name": "Language & Journalism",
+      "subjects": [
+        "language", "languages", "journalism", "newspaper", "articles", "advertisements", "mail", "post office", "speech", "speeches", "gossip"
+      ]
+    },
+    {
+      "name": "Gender & Sexuality",
+      "subjects": [
+        "gender", "sex", "lgbt", "gay"
+      ]
+    },
+    {
+      "name": "Lifestyle & Manners",
+      "subjects": [
+        "manners", "etiquette", "beauty", "loss"
+      ]
+    },
+    {
+      "name": "Professions",
+      "subjects": [
+        "doctor"
+      ]
+    }
+  ]
+}
